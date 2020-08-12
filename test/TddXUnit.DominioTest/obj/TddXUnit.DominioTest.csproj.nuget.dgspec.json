@@ -1,0 +1,80 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/anderson/Documentos/estudo/tddComXUnit/test/TddXUnit.DominioTest/TddXUnit.DominioTest.csproj": {}
+  },
+  "projects": {
+    "/home/anderson/Documentos/estudo/tddComXUnit/test/TddXUnit.DominioTest/TddXUnit.DominioTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/anderson/Documentos/estudo/tddComXUnit/test/TddXUnit.DominioTest/TddXUnit.DominioTest.csproj",
+        "projectName": "TddXUnit.DominioTest",
+        "projectPath": "/home/anderson/Documentos/estudo/tddComXUnit/test/TddXUnit.DominioTest/TddXUnit.DominioTest.csproj",
+        "packagesPath": "/home/anderson/.nuget/packages/",
+        "outputPath": "/home/anderson/Documentos/estudo/tddComXUnit/test/TddXUnit.DominioTest/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/anderson/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "ExpectedObjects": {
+              "target": "Package",
+              "version": "[2.3.4, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.8.0-preview-20200806-02, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

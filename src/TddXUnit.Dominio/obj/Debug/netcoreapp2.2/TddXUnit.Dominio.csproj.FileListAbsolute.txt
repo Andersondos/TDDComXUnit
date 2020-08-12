@@ -1,0 +1,14 @@
+/home/anderson/Documentos/estudo/tddComXUnit/src/TddXUnit.Dominio/bin/Debug/netcoreapp2.2/TddXUnit.Dominio.deps.json
+/home/anderson/Documentos/estudo/tddComXUnit/src/TddXUnit.Dominio/bin/Debug/netcoreapp2.2/TddXUnit.Dominio.runtimeconfig.json
+/home/anderson/Documentos/estudo/tddComXUnit/src/TddXUnit.Dominio/bin/Debug/netcoreapp2.2/TddXUnit.Dominio.runtimeconfig.dev.json
+/home/anderson/Documentos/estudo/tddComXUnit/src/TddXUnit.Dominio/bin/Debug/netcoreapp2.2/TddXUnit.Dominio.dll
+/home/anderson/Documentos/estudo/tddComXUnit/src/TddXUnit.Dominio/bin/Debug/netcoreapp2.2/TddXUnit.Dominio.pdb
+/home/anderson/Documentos/estudo/tddComXUnit/src/TddXUnit.Dominio/obj/Debug/netcoreapp2.2/TddXUnit.Dominio.csprojAssemblyReference.cache
+/home/anderson/Documentos/estudo/tddComXUnit/src/TddXUnit.Dominio/obj/Debug/netcoreapp2.2/TddXUnit.Dominio.csproj.CoreCompileInputs.cache
+/home/anderson/Documentos/estudo/tddComXUnit/src/TddXUnit.Dominio/obj/Debug/netcoreapp2.2/TddXUnit.Dominio.RazorAssemblyInfo.cache
+/home/anderson/Documentos/estudo/tddComXUnit/src/TddXUnit.Dominio/obj/Debug/netcoreapp2.2/TddXUnit.Dominio.RazorAssemblyInfo.cs
+/home/anderson/Documentos/estudo/tddComXUnit/src/TddXUnit.Dominio/obj/Debug/netcoreapp2.2/TddXUnit.Dominio.AssemblyInfoInputs.cache
+/home/anderson/Documentos/estudo/tddComXUnit/src/TddXUnit.Dominio/obj/Debug/netcoreapp2.2/TddXUnit.Dominio.AssemblyInfo.cs
+/home/anderson/Documentos/estudo/tddComXUnit/src/TddXUnit.Dominio/obj/Debug/netcoreapp2.2/TddXUnit.Dominio.RazorTargetAssemblyInfo.cache
+/home/anderson/Documentos/estudo/tddComXUnit/src/TddXUnit.Dominio/obj/Debug/netcoreapp2.2/TddXUnit.Dominio.dll
+/home/anderson/Documentos/estudo/tddComXUnit/src/TddXUnit.Dominio/obj/Debug/netcoreapp2.2/TddXUnit.Dominio.pdb

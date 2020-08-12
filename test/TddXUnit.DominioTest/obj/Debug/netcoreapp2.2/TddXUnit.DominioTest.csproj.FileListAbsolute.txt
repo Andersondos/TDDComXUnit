@@ -1,0 +1,15 @@
+/home/anderson/Documentos/estudo/tddComXUnit/test/TddXUnit.DominioTest/obj/Debug/netcoreapp2.2/TddXUnit.DominioTest.csprojAssemblyReference.cache
+/home/anderson/Documentos/estudo/tddComXUnit/test/TddXUnit.DominioTest/obj/Debug/netcoreapp2.2/TddXUnit.DominioTest.csproj.CoreCompileInputs.cache
+/home/anderson/Documentos/estudo/tddComXUnit/test/TddXUnit.DominioTest/obj/Debug/netcoreapp2.2/TddXUnit.DominioTest.AssemblyInfoInputs.cache
+/home/anderson/Documentos/estudo/tddComXUnit/test/TddXUnit.DominioTest/obj/Debug/netcoreapp2.2/TddXUnit.DominioTest.AssemblyInfo.cs
+/home/anderson/Documentos/estudo/tddComXUnit/test/TddXUnit.DominioTest/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/anderson/Documentos/estudo/tddComXUnit/test/TddXUnit.DominioTest/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/home/anderson/Documentos/estudo/tddComXUnit/test/TddXUnit.DominioTest/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/home/anderson/Documentos/estudo/tddComXUnit/test/TddXUnit.DominioTest/bin/Debug/netcoreapp2.2/TddXUnit.DominioTest.deps.json
+/home/anderson/Documentos/estudo/tddComXUnit/test/TddXUnit.DominioTest/bin/Debug/netcoreapp2.2/TddXUnit.DominioTest.runtimeconfig.json
+/home/anderson/Documentos/estudo/tddComXUnit/test/TddXUnit.DominioTest/bin/Debug/netcoreapp2.2/TddXUnit.DominioTest.runtimeconfig.dev.json
+/home/anderson/Documentos/estudo/tddComXUnit/test/TddXUnit.DominioTest/bin/Debug/netcoreapp2.2/TddXUnit.DominioTest.dll
+/home/anderson/Documentos/estudo/tddComXUnit/test/TddXUnit.DominioTest/bin/Debug/netcoreapp2.2/TddXUnit.DominioTest.pdb
+/home/anderson/Documentos/estudo/tddComXUnit/test/TddXUnit.DominioTest/obj/Debug/netcoreapp2.2/TddXUnit.DominioTest.dll
+/home/anderson/Documentos/estudo/tddComXUnit/test/TddXUnit.DominioTest/obj/Debug/netcoreapp2.2/TddXUnit.DominioTest.pdb
+/home/anderson/Documentos/estudo/tddComXUnit/test/TddXUnit.DominioTest/obj/Debug/netcoreapp2.2/TddXUnit.DominioTest.genruntimeconfig.cache

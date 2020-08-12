@@ -4125,11 +4125,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/anderson/Documentos/estudo/tddComXUnit/test/TddXUnit.DominioTest/TddXUnit.DominioTest.csproj",
+      "projectUniqueName": "/home/anderson/Documentos/estudo/TDDComXUnit/test/TddXUnit.DominioTest/TddXUnit.DominioTest.csproj",
       "projectName": "TddXUnit.DominioTest",
-      "projectPath": "/home/anderson/Documentos/estudo/tddComXUnit/test/TddXUnit.DominioTest/TddXUnit.DominioTest.csproj",
+      "projectPath": "/home/anderson/Documentos/estudo/TDDComXUnit/test/TddXUnit.DominioTest/TddXUnit.DominioTest.csproj",
       "packagesPath": "/home/anderson/.nuget/packages/",
-      "outputPath": "/home/anderson/Documentos/estudo/tddComXUnit/test/TddXUnit.DominioTest/obj/",
+      "outputPath": "/home/anderson/Documentos/estudo/TDDComXUnit/test/TddXUnit.DominioTest/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"

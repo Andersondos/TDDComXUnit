@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JJhXWcNVfiCW15RnljTP6tbHkAEx2g8b0dtf/lnpFpNWLUHoHnLJLgP1Tf7dFw/+Ej6ec0YWgLd8Zw6x1R5xEQ==",
+  "dgSpecHash": "kArsRKvzFTHxvKLIAu/9Ft/9KTk3aCdPSVbcj096MkWuyf7Duj72PAi7ppMKw6z7hMV3xQ8PP9rxPbnxYI2csw==",
   "success": true,
-  "projectFilePath": "/home/anderson/Documentos/estudo/tddComXUnit/test/TddXUnit.DominioTest/TddXUnit.DominioTest.csproj",
+  "projectFilePath": "/home/anderson/Documentos/estudo/TDDComXUnit/test/TddXUnit.DominioTest/TddXUnit.DominioTest.csproj",
   "expectedPackageFiles": [
     "/home/anderson/.nuget/packages/expectedobjects/2.3.4/expectedobjects.2.3.4.nupkg.sha512",
     "/home/anderson/.nuget/packages/microsoft.codecoverage/16.8.0-preview-20200806-02/microsoft.codecoverage.16.8.0-preview-20200806-02.nupkg.sha512",

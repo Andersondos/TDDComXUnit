@@ -13,7 +13,7 @@ namespace TddXUnit.DominioTest.Curso
             {
                 Nome = "Informatica básica",
                 CargaHoraria = 80,
-                PublicoAlvo = "Estudante",
+                PublicoAlvo = PublicoAlvo.Estudante,
                 Valor = 950
             };
 
@@ -28,12 +28,44 @@ namespace TddXUnit.DominioTest.Curso
             // cursoEsperado.ToExpectedObject().ShoulMatch(curso);
 
         }
+
+        [Fact]
+        public void NaoDeveCursoUmNomeVazio()
+        {
+              var cursoEsperado = new 
+            {
+                Nome = "Informatica básica",
+                CargaHoraria = 80,
+                PublicoAlvo = PublicoAlvo.Estudante,
+                Valor = 950
+            };
+
+            
+            var curso = new Curso( cursoEsperado.Nome, cursoEsperado.CargaHoraria, cursoEsperado.PublicoAlvo, cursoEsperado.Valor);
+            
+
+            Assert.Throws<ArgumentException>(()=> 
+                new Curso( string.Empty, cursoEsperado.CargaHoraria, cursoEsperado.PublicoAlvo, cursoEsperado.Valor));
+        }
+    }
+
+    public enum PublicoAlvo
+    {
+        Estudante,
+        Universitario,
+        Empregado,
+        Empreededor
     }
 
     public class Curso
     {
-        public Curso(string nome, double cargaHoraria, string publicoAlvo, double valor)
+        public Curso(string nome, double cargaHoraria, PublicoAlvo publicoAlvo, double valor)
         {
+            if(nome == string.Empty)
+            {
+                throw new ArgumentException();
+            }
+
             Nome = nome;
             CargaHoraria = cargaHoraria;
             PublicoAlvo = publicoAlvo;
@@ -43,7 +75,7 @@ namespace TddXUnit.DominioTest.Curso
 
         public string Nome { get; private set; }
         public double CargaHoraria {get; private set; }
-        public string PublicoAlvo { get; private set; }
+        public PublicoAlvo PublicoAlvo { get; private set; }
         public double Valor {get; private set; }
     }
 }
